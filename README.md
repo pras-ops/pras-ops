@@ -30,13 +30,6 @@
 <p align="left">Tools: Tableau | Power Bi | Microsoft Excel | Matlab | VBA | Informatica | Alteryx | Git | Docker | Scikit-Learn | TensorFlow | Keras | NumPy | Pandas | SciPy | Beautiful Soup | PySpark | CI/CD</p>
 <p align="left">Database: MySQL | MongoDB | PostgreSQL | Google Firebase | Amazon S3 | Heroku | Azure</p>
 
-<h3 align="left">Work Experience:</h3>
-
-- Business Analyst Trainee at MedTourEasy (November 2022 - December 2022)
-- Business Analyst Intern at iNeuron (September 2021 - April 2022)
-- Matlab Developer Intern at Small Wonders Academy (July 2020 - August 2020)
-- AI-ML Engineer Intern at Genclick (Student Startup) (September 2019 - May 2020)
-- Telecom Engineer Intern at South Eastern Coalfields Limited (SECL) (July 2019 - August 2019)
 
 </body>
 </html>
