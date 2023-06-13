@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Python, SQL**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/17CfHjs4yrFD7FCzd48xvekeFRh96qJOCKc5KFyXY3g0/edit)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RvUXANYXv299viWdRNFCW3MLgRGHzHyJ/view?usp=sharing)
 
 <h3 align="left">Skills:</h3>
 <p align="left">Language: HTML | SQL | NoSQL | Python | C | C++</p>
