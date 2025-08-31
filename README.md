@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Deep Learning and Data Science**
 
-- 👨‍💻 Look at my portfolio [https://pras-ops.github.io/prashant.j-Portfolio/](https://pras-ops.github.io/prashant.j-Portfolio/)
+- 👨‍💻 Look at my portfolio [prashant-j.com](https://prashant-j.com/)
 
 - 💬 Ask me about **Data Analysis, Machine Learning, Python, SQL**
 
