@@ -27,7 +27,7 @@
 - ⚙️ Currently an **AI Automation Engineer** working with n8n, MCP servers, and GenAI creative pipelines
 - 🌱 Exploring **agentic architectures, local LLM inference, and privacy-first AI**
 - 💬 Ask me about **LLMs, RAG, AI agents, Python automation, and web scraping at scale**
-- 📄 [Resume](https://drive.google.com/file/d/1RvUXANYXv299viWdRNFCW3MLgRGHzHyJ/view?usp=sharing)  ·  🌐 [Portfolio](https://prashant-j.com/)
+- 🌐 [Portfolio](https://prashant-j.com/)
 
 ---
 
